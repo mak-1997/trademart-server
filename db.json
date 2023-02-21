@@ -11,12 +11,6 @@
             "rating": 9,
             "user_name": "Bruce Wayne",
             "text": "You are the batman of this world"
-        },
-        {
-            "id": 3,
-            "rating": 8,
-            "user_name": "Peter Parker",
-            "text": "You are the spiderman of this world"
         }
     ]
 }
